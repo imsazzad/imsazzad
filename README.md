@@ -67,7 +67,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="imsazzad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imsazzad&count_private=true&theme=dracula&show_icons=true&hide_border=true" />
+  <img align="left" alt="imsazzad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imsazzad&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
 </details>
 
 
