@@ -37,6 +37,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [CI CD - why, what, and how | TechTong Episode 33](https://www.youtube.com/watch?v=1q3_gkfOw1I)
+- [1 Year of TechTong | How it started | Anniversary | Software Engineering Conversations |  Episode 32](https://www.youtube.com/watch?v=fHM2CTKALIA)
+- [Women in Software Engineering | Guest episode with Pushpita, Senior Engineer at TripAdvisor | Ep 31](https://www.youtube.com/watch?v=iVbCZsXX-aE)
+- [Experiences of a team lead in Software Companies | Special Guest - Pushpita From TripAdvisor | Ep30](https://www.youtube.com/watch?v=17La6Xnv6kc)
+- [Software engineering without a Computer Science degree | Engineer with non-tech background | TT Ep29](https://www.youtube.com/watch?v=izRy97F_ih8)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
