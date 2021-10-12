@@ -4,6 +4,8 @@ on:
     - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 
+#https://github:com/gautamkrishnar/blog-post-workflow:
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -15,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/imsazzad,https://medium.com/feed/@abdulhasibsazzad"
+          max_post_count: 5
