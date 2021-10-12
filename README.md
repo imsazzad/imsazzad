@@ -47,6 +47,11 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Sazzad for How to use pandas.get_dummies on prediction time](https://stackoverflow.com/questions/69127531/how-to-use-pandas-get-dummies-on-prediction-time/69202211#69202211)
+- [How to use pandas.get_dummies on prediction time](https://stackoverflow.com/questions/69127531/how-to-use-pandas-get-dummies-on-prediction-time)
+- [Horizontal scaling based on the number of events published in NATS server](https://stackoverflow.com/questions/63726103/horizontal-scaling-based-on-the-number-of-events-published-in-nats-server)
+- [write unit test for async aiohttp and aio files](https://stackoverflow.com/questions/63665278/write-unit-test-for-async-aiohttp-and-aio-files)
+- [Answer by Sazzad for curl and grep Command in liveness probes in kuberenetes](https://stackoverflow.com/questions/63517048/curl-and-grep-command-in-liveness-probes-in-kuberenetes/63517723#63517723)
 <!-- STACKOVERFLOW:END -->
 
 
