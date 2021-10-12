@@ -59,6 +59,13 @@
 <!-- STACKOVERFLOW:END -->
 
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="imsazzad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imsazzad&show_icons=true&hide_border=true" />
+</details>
+
+
 [website]: https://imsazzad.github.io/
 [twitter]: https://twitter.com/Sazzad2008
 [youtube]: https://www.youtube.com/channel/UC6EEGk0N9sad84YU_uXTVMw
