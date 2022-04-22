@@ -46,11 +46,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Interview Question| Longest Valid Parentheses](https://dev.to/imsazzad/google-interview-question-longest-valid-parentheses-47j0)
 - [Populate data-frame faster- [from 4 hours to 15 second]](https://dev.to/imsazzad/populate-data-frame-faster-from-4-hours-to-15-second-557e)
 - [Populate data-frame faster- [from 4 hours to 15 seconds]](https://medium.com/@abdulhasibsazzad/populate-data-frame-faster-from-4-hours-to-15-seconds-aa3b350cceb0?source=rss-e04f6a3666fa------2)
 - [How to Publish and Use Your Python Package in  and from Private Bitbucket or Github](https://dev.to/imsazzad/how-to-publish-and-use-your-python-package-in-and-from-private-bitbucket-or-github-3p4c)
 - [Install Kubeflow on Minikube](https://medium.com/@abdulhasibsazzad/install-kubeflow-on-minikube-9d2ced50459c?source=rss-e04f6a3666fa------2)
-- [A beginner’s guide to create Cognitive ChatBot using Bot Framework](https://chatbotslife.com/a-beginners-guide-to-create-cognitive-chatbot-using-bot-framework-c1666af3b866?source=rss-e04f6a3666fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 
